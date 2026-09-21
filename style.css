@@ -1,0 +1,23 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box; 
+}
+
+header{
+    background:#a8a55e;
+    color:black;
+}
+
+body{
+  height:100dvh;
+  width:70dvw;
+  margin-left:15dvw;
+  display:flex;
+  flex-direction:column;
+}
+
+.cen{
+    display:grid;
+    place-content: center;
+}
