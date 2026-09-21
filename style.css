@@ -5,17 +5,45 @@
 }
 
 header{
+    height:120px;
     background:#a8a55e;
-    color:black;
+}
+
+header img{
+    height:100px;
+    width:auto;
+}
+
+nav{
+    height:50px;
+    background:#862422;
+    color:#a79999;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    gap:50px;
+    font-size: 20px;
+}
+
+nav a{
+    color:#a79999;
+    text-decoration:none;
+}
+
+nav a:hover{
+    color:white;
+    text-decoration:underline;
 }
 
 body{
   height:100dvh;
-  width:70dvw;
-  margin-left:15dvw;
+  width:100dvw;
   display:flex;
   flex-direction:column;
 }
+
+
 
 .cen{
     display:grid;
