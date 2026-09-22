@@ -55,7 +55,30 @@ main{
     background:black;
 }
 
+h1{
+    color:white;
+    padding:10px;
+}
 
+h2{
+    color:white;
+    padding:10px;
+}
+
+p{
+    color:white;
+    padding:10px;
+}
+
+p a{
+    color:white;
+    text-decoration:none;
+}
+
+p a:hover{
+    color:white;
+    text-decoration:underline;
+}
 
 footer{
     background:#ab9b9c;
