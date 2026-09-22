@@ -17,6 +17,7 @@ header{
     background:#44211f;
     color:#a79999;
     font-size: 100px;
+    font-family:"Brush Script MT",cursive;
 }
 
 nav img{
@@ -34,13 +35,14 @@ nav{
     justify-content:center;
     align-items:center;
     gap:20px;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 nav a{
-    margin-right:3dvw;
+    margin-right:4dvw;
     color:white;
     text-decoration:none;
+    font-family:"Brush Script MT",cursive;
 }
 
 nav a:hover{
