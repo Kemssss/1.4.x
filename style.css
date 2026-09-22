@@ -46,6 +46,13 @@ body{
   background:black;
 }
 
+header{
+    height:150px;
+    background:#44211f;
+    color:#a79999;
+    font-size: 100px;
+}
+
 footer{
     background:#ab9b9c;
     color:white;
@@ -53,6 +60,7 @@ footer{
     margin:0 auto 15px auto;
     padding:5px;
     border-radius:12px;
+    outline: 2px solid #443636;
 }
 
 .cen{
